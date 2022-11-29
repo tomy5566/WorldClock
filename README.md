@@ -27,7 +27,7 @@
 - 自動更新時間，不須重整也能持續快速對時。
 
 ## 介面展示
-![image](https://github.com/tomy5566/KH_travel/blob/main/KH_readmegif.gif)
+![image]([https://github.com/tomy5566/WorldClock/blob/main/DEMO_SEC_GIF.gif])
 
 
 ## 參考資料
