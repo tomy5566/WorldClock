@@ -13,11 +13,12 @@
 
 ## JavaScript 使用技術介紹
 
-1. 建立一個 JavaScript Date 物件來指向某一個時間點。並回歸格林威治標準時間，換算毫秒等單位。
+1. 建立一個 JavaScript  [Date物件 ](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Date) 來指向某一個時間點。並回歸格林威治標準時間，換算毫秒等單位。
 2. 建立不同城市的時區陣列，利用函數與上述校證的時間算出當地時間，日期，與星期。
 3. 設計白天與黑夜的圖像介面，讓使用者一目了然該城市的狀況。
-4. 使用 setInterval() 讓每一秒軍重新抓取資料，以及渲染到瀏覽器介面，創造電子鐘的感覺。
-5. 使用flex排列資訊卡片。因利用for loop帶入陣列，故若要新增新城市，只要更新陣列即可。
+4. 使用  [setInterval() ](https://developer.mozilla.org/en-US/docs/Web/API/setInterval)讓每一秒軍重新抓取資料，以及渲染到瀏覽器介面，創造電子鐘的感覺。
+5. 利用 [Element.innerHTML](https://developer.mozilla.org/zh-TW/docs/Web/API/Element/innerHTML) 配合ES6 Template literals [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)建立城市時間卡片。並使用flex排列。
+6.因利用for loop [Object.entries() ](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/entries) 帶入陣列，故若要新增新城市，只要更新陣列即可。
 
 ## 功能介紹
 - 一目了然各大城市的日期，時間，以及星期的資訊。
