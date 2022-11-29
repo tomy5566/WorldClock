@@ -91,12 +91,14 @@ table {
 .card .small_Word .city_dayMonthYear{
   font-size: 20px;
   text-align: center;
+  font-style: italic;
   
 }
 
 .card .big_Word{
   /* background-color: #31BAF9; */
-  font-size: 40px;
+  font-size: 50px;
+  margin-top: 15px;
   padding: 10px;  
   width: 45%;
   text-align: center;
