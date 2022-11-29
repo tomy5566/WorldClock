@@ -10,6 +10,7 @@
 - HTML
 - CSS: [flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
 - JavaScript
+- [setInterval() ](https://developer.mozilla.org/en-US/docs/Web/API/setInterval)
 
 ## JavaScript 使用技術介紹
 
