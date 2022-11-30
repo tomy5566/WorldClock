@@ -139,7 +139,7 @@ window.setInterval(writeCard, 1000);
 writeCard();
 
 
-// 網友 張家祥 提供的解答 (比較好 簡短)
+// 張家祥 提供的解法 (比較好 簡短)
 // let time_info = document.querySelector('.time_info');
 // function start() {
 //   for (const [key, value] of Object.entries(timezone)) {
