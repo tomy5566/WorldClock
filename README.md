@@ -1,4 +1,5 @@
-# WorldClock 世界時鐘練習專案readme
+# 世界時鐘練習專案 Readme
+WorldClock 
 
 ## 主要介紹
 使用JavaScript日期函數，建立一目了然的世界時鐘，並有白天和黑夜的設計。
